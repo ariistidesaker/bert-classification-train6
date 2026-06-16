@@ -1,6 +1,6 @@
 # Devoir 3 : NLP avec PyTorch - Classification de texte avec BERT
 
-**Binôme :** [Nom1] & [Nom2]  
+**Nom :** Amadou Sy  
 **Dataset choisi :** Contradictory, My Dear Watson (NLI Multilingue)
 
 Ce dépôt contient l'implémentation du Devoir 3 de Deep Learning concernant le fine-tuning d'un modèle BERT pour une tâche de Natural Language Inference (NLI).
@@ -61,5 +61,4 @@ Ouvrez l'URL locale générée dans votre navigateur pour tester vos propres phr
 *(Insérez les images `learning_curves.png` et `confusion_matrix_best.png` ici)*
 
 ## 6. Répartition du Travail
-- **[Nom1]** : Développement de `dataset.py` et de la boucle d'entraînement dans `train.py`.
-- **[Nom2]** : Développement de `model.py`, `utils.py`, l'interface `demo.py`, et rédaction de ce rapport.
+- **Amadou Sy** : Réalisation de l'intégralité du projet (traitement des données, implémentation du modèle, boucle d'entraînement PyTorch, interface Gradio et rédaction du rapport), le devoir ayant été réalisé de manière individuelle.
